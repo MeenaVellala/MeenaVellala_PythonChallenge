@@ -1,7 +1,7 @@
 # Script to create a file path and read csv file
 import os
 import csv
-csvpath = os.path.join('PyPoll','Resources', 'election_data.csv')
+csvpath = os.path.join('PyPoll\Resources', 'election_data.csv')
 votes = []
 charles_casper_stockham = 0
 diana_degette = 0
