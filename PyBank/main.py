@@ -1,7 +1,7 @@
 # Script to create a file path and read csv file
 import os
 import csv
-csvpath = os.path.join('MeenaVellala_PythonChallenge','PyBank','Resources', 'budget_data.csv')
+csvpath = os.path.join('PyBank','Resources', 'budget_data.csv')
 change = []
 profitnloss = []
 month = []
